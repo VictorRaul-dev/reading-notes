@@ -5,13 +5,13 @@ Economista apasionado por los mercados financieros y la teconología.
 
 ## Contáctame:
 
-<a href="mailto:eduardo.inga@dagahelpdesk.com">
-    <img src="./img/gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
+<a href="mailto:vicraul.vrcl@gmail.com">
+    <img src="./gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
 </a>
 
 <a href="https://github.com/VictorRaul-dev">
-    <img src="./img/github.png" alt="GitHub" style="width: 50px; height: 50px;">
+    <img src="./github.png" alt="GitHub" style="width: 50px; height: 50px;">
 </a>
 <a href="https://www.linkedin.com/in/victor-cercado/">
-    <img src="./img/whatsapp.png" alt="WhatsApp" style="width: 50px; height: 50px;">
+    <img src="./linkedin.png" alt="WhatsApp" style="width: 50px; height: 50px;">
 </a>
