@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/67fa26ae-67ad-465a-829e-fbe8d7c23a04" alt="ZIMG-2022" style="border-radius: 5px; width: 150px; height: 150px;">
 
 ## Sobre mí
-Soy economista con experiencia en el análisis de mercados financieros y una pasión por la tecnología. Estoy comprometido con el aprendizaje continuo y el desarrollo de soluciones innovadoras para el sector financiero. Gusto por el uso de herramientas como Excel avanzado, VBA y Python para automatizar procesos y análisis de datos. Actualmente desarrollando habilidades para la creación de aplicaciones web que solucionen problemas o faciliten la experiencia del usuario.
+Soy economista con experiencia en el análisis de mercados financieros y una pasión por la tecnología. Estoy comprometido con el aprendizaje continuo y el desarrollo de soluciones innovadoras para el sector financiero. Gusto por el uso de herramientas como VBA, Power BI y Python para automatizar procesos y análisis de datos. Actualmente desarrollando habilidades para la creación de aplicaciones web que solucionen problemas o faciliten la experiencia del usuario.
 
 ## Mis Proyectos:
 
@@ -18,7 +18,7 @@ Soy economista con experiencia en el análisis de mercados financieros y una pas
 - **Cuadre de abonos:** Desarrollo de un sitio web donde el usuario ingresa montos y un valor objetivo, y como resultado obtiene una combinación de montos cuya suma es igual o lo más cercana posible al valor objetivo indicado. Esta herramienta es ideal para conciliaciones de abonos bancarios. [Ver Sitio Web](https://victorraul-dev.github.io/)
 
 ## Contáctame:
-<a href="https://vicraul.github.io/" style="background-color: #4CAF50; color: blue; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Ver Tarjeta Presentación</a>
+<a href="https://vicraul.github.io/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Ver Tarjeta Presentación</a>
 <a href="mailto:vicraul.vrcl@gmail.com">
     <img src="./gmail2.png" alt="Gmail" style="width: 50px; height: 50px;">
 </a>
