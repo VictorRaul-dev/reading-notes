@@ -16,3 +16,6 @@ Economista apasionado por los mercados financieros y la teconología.
 <a href="https://www.linkedin.com/in/victor-cercado/">
     <img src="./linkedin.png" alt="WhatsApp" style="width: 50px; height: 50px;">
 </a>
+
+## Mis notas de lectura:
+- [Mindset](./mindset.md)
