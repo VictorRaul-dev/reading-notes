@@ -7,7 +7,7 @@ Economista apasionado por los mercados financieros y la tecnología.
 ## Contáctame:
 
 <a href="mailto:vicraul.vrcl@gmail.com">
-    <img src="./gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
+    <img src="./gmail2.png" alt="Gmail" style="width: 50px; height: 50px;">
 </a>
 <a href="https://github.com/VictorRaul-dev">
     <img src="./github2.png" alt="GitHub" style="width: 50px; height: 50px;">
